@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>首页 on viazure</title>
+    <link>https://viazure.cc/</link>
+    <description>Recent content in 首页 on viazure</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 19 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://viazure.cc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post Test</title>
+      <link>https://viazure.cc/posts/post-test/</link>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://viazure.cc/posts/post-test/</guid>
+      
+      <description>&lt;p&gt;test&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>标签</title>
+      <link>https://viazure.cc/pages/tags/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://viazure.cc/pages/tags/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>关于</title>
+      <link>https://viazure.cc/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://viazure.cc/pages/about/</guid>
+      
+      <description>&lt;p&gt;👋 Hi，我是 viazure。&lt;/p&gt;
+&lt;p&gt;这里是我的博客，我想在这里输出一些东西，暂时还不知道未来是怎样，先开始吧。&lt;/p&gt;
+</description>
+      
+    </item>
+    
+  </channel>
+</rss>
