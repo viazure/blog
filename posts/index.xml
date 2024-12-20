@@ -48,7 +48,7 @@
     <item>
       <title>从 Joplin 迁移到 Obsidian</title>
       <link>https://viazure.cc/posts/%E4%BB%8E-joplin-%E8%BF%81%E7%A7%BB%E5%88%B0-obsidian/</link>
-      <pubDate>Sun, 27 Oct 2024 19:38:13 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://viazure.cc/posts/%E4%BB%8E-joplin-%E8%BF%81%E7%A7%BB%E5%88%B0-obsidian/</guid>
       
@@ -68,7 +68,7 @@
 &lt;p&gt;Obsidian 有强大且丰富的插件资源，所以我在发现有博客发布相关的插件后，我决定开始从 Joplin 迁移到 Obsidian。Obsidian 的文件库管理方式让我可以直接使用从 Joplin 导出的 Markdown 文档，减少了我的大部分工作，接下来只需要：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 解决笔记的同步： &lt;a href=&#34;https://github.com/remotely-save/remotely-save&#34;&gt;Remotely Save&lt;/a&gt; + Cloudflare R2&lt;/li&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 找到我在 VS Code 中已使用习惯的插件或者更好用的插件：&lt;a href=&#34;./%E6%88%91%E4%BD%BF%E7%94%A8%E7%9A%84%2520Obsidian%2520%E6%8F%92%E4%BB%B6.md&#34;&gt;我使用的 Obsidian 插件&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 找到我在 VS Code 中已使用习惯的插件或者更好用的插件：&lt;a href=&#34;%E6%88%91%E4%BD%BF%E7%94%A8%E7%9A%84%2520Obsidian%2520%E6%8F%92%E4%BB%B6.md&#34;&gt;我使用的 Obsidian 插件&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 搭建博客并发布我想要分享的内容。&lt;/li&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 将我的旅行日记重建为博客文章/相册，并发布。&lt;/li&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Obsidian 更多的折腾……&lt;/li&gt;
