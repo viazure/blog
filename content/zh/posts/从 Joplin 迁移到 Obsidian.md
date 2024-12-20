@@ -2,8 +2,6 @@
 title: 从 Joplin 迁移到 Obsidian
 updated: 2024-12-20 14:35:49
 created: 2024-10-27 19:38:13
-tags:
-  - draft
 share: "true"
 ---
 
