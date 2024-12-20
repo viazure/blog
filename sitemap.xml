@@ -2,27 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://viazure.cc/posts/post-test/</loc>
-    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://viazure.cc/tags/</loc>
-    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://viazure.cc/tags/test/</loc>
-    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://viazure.cc/</loc>
-    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://viazure.cc/posts/</loc>
-    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://viazure.cc/categories/</loc>
   </url><url>
     <loc>https://viazure.cc/pages/</loc>
   </url><url>
+    <loc>https://viazure.cc/tags/</loc>
+  </url><url>
     <loc>https://viazure.cc/pages/tags/</loc>
   </url><url>
     <loc>https://viazure.cc/pages/about/</loc>
+  </url><url>
+    <loc>https://viazure.cc/</loc>
+  </url><url>
+    <loc>https://viazure.cc/posts/</loc>
   </url>
 </urlset>
