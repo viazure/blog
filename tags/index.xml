@@ -6,5 +6,16 @@
     <description>Recent content in Tags on viazure</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language><atom:link href="https://viazure.cc/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Draft</title>
+      <link>https://viazure.cc/tags/draft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://viazure.cc/tags/draft/</guid>
+      
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>

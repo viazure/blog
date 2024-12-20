@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>文章 on viazure</title>
-    <link>https://viazure.cc/posts/</link>
-    <description>Recent content in 文章 on viazure</description>
+    <title>Draft on viazure</title>
+    <link>https://viazure.cc/tags/draft/</link>
+    <description>Recent content in Draft on viazure</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh</language><atom:link href="https://viazure.cc/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh</language><atom:link href="https://viazure.cc/tags/draft/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>从 Joplin 迁移到 Obsidian</title>
       <link>https://viazure.cc/posts/%E4%BB%8E-joplin-%E8%BF%81%E7%A7%BB%E5%88%B0-obsidian/</link>
