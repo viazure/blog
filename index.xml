@@ -5,22 +5,50 @@
     <link>https://viazure.cc/</link>
     <description>Recent content in 首页 on viazure</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh</language><atom:link href="https://viazure.cc/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh</language>
+    <lastBuildDate>Sat, 02 Nov 2024 19:58:19 +0000</lastBuildDate><atom:link href="https://viazure.cc/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>标签</title>
-      <link>https://viazure.cc/pages/tags/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>我使用的 Obsidian 插件</title>
+      <link>https://viazure.cc/posts/%E6%88%91%E4%BD%BF%E7%94%A8%E7%9A%84-obsidian-%E6%8F%92%E4%BB%B6/</link>
+      <pubDate>Sat, 02 Nov 2024 19:58:19 +0000</pubDate>
       
-      <guid>https://viazure.cc/pages/tags/</guid>
+      <guid>https://viazure.cc/posts/%E6%88%91%E4%BD%BF%E7%94%A8%E7%9A%84-obsidian-%E6%8F%92%E4%BB%B6/</guid>
       
-      <description></description>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;插件名称按字母顺序从 A 到 Z 排列，若社区插件市场中无法搜索到所列插件，将提供相应链接。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Yaozhuwa/AttachFlow&#34;&gt;AttachFlow&lt;/a&gt;：将附件管理集成到右键菜单中，查看及放大附件图片。&lt;/li&gt;
+&lt;li&gt;Attachment Management：附件管理，附件自定义存储位置，自动更新笔记附件链接。&lt;/li&gt;
+&lt;li&gt;Auto Link Title：粘贴网址时自动获取标题。&lt;/li&gt;
+&lt;li&gt;BRAT：安装与更新非社区插件市场中的插件。&lt;/li&gt;
+&lt;li&gt;Clear Unused Images：清理无效的图片及附件。&lt;/li&gt;
+&lt;li&gt;Code Emitter：代码块中直接执行代码。&lt;/li&gt;
+&lt;li&gt;Copilot：可自定义模型的 AI 辅助工具。&lt;/li&gt;
+&lt;li&gt;Easy Typing：书写时实时处理文本格式。&lt;/li&gt;
+&lt;li&gt;Excalidraw：绘制各种图，主要很喜欢手绘风格。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/0011000000110010/obsidian-i18n&#34;&gt;I18N&lt;/a&gt;：翻译其他 Obsidian 的插件。开启沉浸式翻译模式时也能用其翻译笔记。&lt;/li&gt;
+&lt;li&gt;Linter：格式验证及保存时格式化。&lt;/li&gt;
+&lt;li&gt;Omnisearch：更智能的搜索，可配合浏览器扩展或篡改猴脚本将搜索结果集成到搜索引擎中。&lt;/li&gt;
+&lt;li&gt;Pandoc Plugin：更丰富的导出。&lt;/li&gt;
+&lt;li&gt;Recent Files：查看最新浏览过的文件。&lt;/li&gt;
+&lt;li&gt;Remotely Save：笔记同步。搭配 Cloudflare R2 使用，体验良好。&lt;/li&gt;
+&lt;li&gt;Style Settings：管理自定义 CSS。&lt;/li&gt;
+&lt;li&gt;Tag Wrangler：给标签增加右键菜单，主要用于批量重命名。&lt;/li&gt;
+&lt;li&gt;Text Extractor：从图像和 PDF 中提取文本，搭配 Omnisearch 使用。&lt;/li&gt;
+&lt;li&gt;Tray：将 Obsidian 设为开机自启，并能够最小化到系统托盘。&lt;/li&gt;
+&lt;li&gt;Version History Diff：对比不同版本文本差异。&lt;/li&gt;
+&lt;li&gt;Weread：同步微信读书笔记。&lt;/li&gt;
+&lt;li&gt;Word Splitting for Simplified Chinese in Edit Mode And Vim Mode：提供结巴分词引擎，与 Omnisearch 插件配合使用。                                                                                                                                                                   &lt;/li&gt;
+&lt;/ul&gt;
+</description>
       
     </item>
     
     <item>
       <title>从 Joplin 迁移到 Obsidian</title>
       <link>https://viazure.cc/posts/%E4%BB%8E-joplin-%E8%BF%81%E7%A7%BB%E5%88%B0-obsidian/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 27 Oct 2024 19:38:13 +0000</pubDate>
       
       <guid>https://viazure.cc/posts/%E4%BB%8E-joplin-%E8%BF%81%E7%A7%BB%E5%88%B0-obsidian/</guid>
       
@@ -40,12 +68,23 @@
 &lt;p&gt;Obsidian 有强大且丰富的插件资源，所以我在发现有博客发布相关的插件后，我决定开始从 Joplin 迁移到 Obsidian。Obsidian 的文件库管理方式让我可以直接使用从 Joplin 导出的 Markdown 文档，减少了我的大部分工作，接下来只需要：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 解决笔记的同步： &lt;a href=&#34;https://github.com/remotely-save/remotely-save&#34;&gt;Remotely Save&lt;/a&gt; + Cloudflare R2&lt;/li&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 找到我在 VS Code 中已使用习惯的插件或者更好用的插件：&lt;a href=&#34;%E6%88%91%E4%BD%BF%E7%94%A8%E7%9A%84%2520Obsidian%2520%E6%8F%92%E4%BB%B6.md&#34;&gt;我使用的 Obsidian 插件&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 找到我在 VS Code 中已使用习惯的插件或者更好用的插件：&lt;a href=&#34;./%E6%88%91%E4%BD%BF%E7%94%A8%E7%9A%84%2520Obsidian%2520%E6%8F%92%E4%BB%B6.md&#34;&gt;我使用的 Obsidian 插件&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 搭建博客并发布我想要分享的内容。&lt;/li&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 将我的旅行日记重建为博客文章/相册，并发布。&lt;/li&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Obsidian 更多的折腾……&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+      
+    </item>
+    
+    <item>
+      <title>标签</title>
+      <link>https://viazure.cc/pages/tags/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://viazure.cc/pages/tags/</guid>
+      
+      <description></description>
       
     </item>
     
